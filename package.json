@@ -2,6 +2,7 @@
   "name": "notably-demo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://nicmendoza.github.io/workspace-demo/build/",
   "dependencies": {
     "@craco/craco": "^6.1.1",
     "@reduxjs/toolkit": "^1.5.0",
