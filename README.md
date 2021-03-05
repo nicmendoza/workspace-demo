@@ -1,3 +1,7 @@
+
+### TODO
+* Add objects to redux store, cause them to render in table view
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
